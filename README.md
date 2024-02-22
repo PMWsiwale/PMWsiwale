@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PMWsiwale
-- 👀 I’m interested in programming and we development 
+- 👀 I’m interested in programming and web development 
 - 🌱 I’m currently learning java and getting deeper into python 
 - 💞️ I’m looking to collaborate on programming projects 
 - 📫 How to reach me through my email 
